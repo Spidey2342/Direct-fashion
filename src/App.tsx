@@ -1,15 +1,10 @@
-import { useState } from 'react'
-
-
+import React from 'react'
+import { motion } from 'motion/react';
+import { Home, ShoppingBag, Info } from 'lucide-react';
 
 function App() {
-
-
   return (
-    <>
-      <section id="center">
-       </section>
-    </>
+    <div>App</div>
   )
 }
 
